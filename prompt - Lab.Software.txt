@@ -1,0 +1,21 @@
+Crie um sistema web para [TIPO DE ESTABELECIMENTO], chamado [NOME DO SISTEMA], utilizando HTML, CSS e JavaScript para validação.
+
+O sistema deve conter os seguintes campos:
+
+[INFORME OS CAMPOS NECESSÁRIOS PARA O SEU SISTEMA]
+
+O sistema também deve permitir:
+
+[DESCREVA AS FUNCIONALIDADES QUE O SISTEMA DEVE REALIZAR]
+
+Na parte do CSS, crie uma interface moderna, minimalista e amigável, utilizando os princípios do design, como alinhamento, espaçamento, contraste e consistência visual.
+
+O sistema deve ser responsivo, adaptando-se a computadores e celulares.
+
+Priorize a praticidade e a facilidade de utilização. Evite páginas extensas, imagens decorativas, textos promocionais, menus e elementos desnecessários. Concentre a interface nas funcionalidades solicitadas, mantendo tudo em uma única página.
+
+Organize o projeto em três arquivos separados:
+- index.html — Estrutura do sistema.
+- style.css — Aparência e organização visual.
+- script.js — Funcionalidades e validações.
+O sistema deve ser simples, funcional e fácil de testar.
